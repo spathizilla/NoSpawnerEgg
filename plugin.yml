@@ -1,0 +1,6 @@
+name: NoSpawnerEgg
+main: net.playminecraft.nospawneregg.NoSpawnerEgg
+version: 1.0
+description: Block Mob Spawner Eggs
+author: Andy F (Spathizilla)
+website: http://www.playminecraft.net
